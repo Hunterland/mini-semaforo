@@ -6,8 +6,6 @@
 <li class="has-line-data" data-line-start="9" data-line-end="10">CSS</li>
 <li class="has-line-data" data-line-start="10" data-line-end="12">JAVASCRIPT</li>
 </ul>
-<h2 class="code-line" data-line-start=12 data-line-end=13 ><a id="Images_12"></a>Images</h2>
-<p></p>
 <p class="has-line-data" data-line-start="14" data-line-end="15">
 <h2 class="code-line" data-line-start=16 data-line-end=17 ><a id="Links_16"></a>Links</h2>
 <p class="has-line-data" data-line-start="18" data-line-end="19">ver projeto <a href="https://hunterland.github.io/mini-semaforo/">mini semáforo</a>.
